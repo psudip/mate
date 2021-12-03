@@ -1,0 +1,24 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  /* if first font doesnt work second will work*/
+}
+h1 {
+  font-size: 400%;
+  font-family: cursive;
+  margin-top: 0;
+  margin-bottom: 0px;
+  color: #66BFBF;
+  /* yedi block elements ma width raknu parne below gare jasari garne*/
+  /*  width: 30%;    */
+  /*  margin-top: 0;  each and every box ko default ma some margin huncha tei margin hatauna mathi ko so that cloud and heading come close */
+  /* margin: 0 auto 0 auto; */
+  /* top bata 0 margin,right bata auto aafai milaucha kati chanyincha center ma hatauna,ani bottom ko zero ,and finally left side ko ni auto aafai milaucha */
+  /* also for above we can write (marin:0 auto) means top bottom zero right left auto*/
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 40px 0 20px 0px;
+}
